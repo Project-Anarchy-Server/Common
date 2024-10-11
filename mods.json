@@ -1,0 +1,50 @@
+[
+  {
+      "_id": 1,
+      "uploadDate": "",
+      "category": "Base Mods",
+      "aliases": [],
+      "versions": [
+        {
+          "_version": 0,
+          "name": "ActionMenuApi",
+          "modVersion": "0.3.3",
+          "modType": "Utility",
+          "author": "gompo",
+          "description": "Action Menu API",
+          "downloadLink": "{ TODO: ADD DOWNLOAD LINK }",
+          "sourceLink": "",
+          "hash": "ba450d63ed7897d04248e874da0559fbf1d5b946890c35182f837d8e8e7f5dd7",
+          "updateDate": "",
+          "vrchatVersion": "latest",
+          "loaderVersion": "0.0.0",
+          "approvalStatus": 1,
+          "IsPlugin": false
+        }
+      ]
+    },
+    {
+      "_id": 2,
+      "uploadDate": "",
+      "category": "Base Mods",
+      "aliases": [],
+      "versions": [
+        {
+          "_version": 0,
+          "name": "UnityExplorer",
+          "modVersion": "4.9.0",
+          "modType": "Utility",
+          "author": "Sinai",
+          "description": "Action Menu API",
+          "downloadLink": "{ TODO: ADD DOWNLOAD LINK }",
+          "sourceLink": "",
+          "hash": "09f49edd0be7c2c1aecbb892e360230094fd172acac51dce8f75557f3873946a",
+          "updateDate": "",
+          "vrchatVersion": "latest",
+          "loaderVersion": "0.0.0",
+          "approvalStatus": 1,
+          "IsPlugin": false
+        }
+      ]
+    }
+]
